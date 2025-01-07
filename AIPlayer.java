@@ -1,10 +1,3 @@
-/*
-* Names: Vu Nguyen
-* netID: vnguy7
-* G#: 01390056
-* Lecture section: 004
-* Lab section: 213
-*/
 import java.util.ArrayList;
 public class AIPlayer extends Player{
     private String name;
